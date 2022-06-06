@@ -36,5 +36,21 @@ rta = rta + ")\ncara 1 : "
 for i in range(cara_1):
     rta = rta + "#"
     rta = rta + " -> " + str(cara_1)
+for i in range(cara_2):
+    rta = rta + "#"
+    rta = rta + " -> " + str(cara_2)
+for i in range(cara_3):
+    rta = rta + "#"
+    rta = rta + " -> " + str(cara_3)
+for i in range(cara_4):
+    rta = rta + "#"
+    rta = rta + " -> " + str(cara_4)
+for i in range(cara_5):
+    rta = rta + "#"
+    rta = rta + " -> " + str(cara_5)
+for i in range(cara_6):
+    rta = rta + "#"
+    rta = rta + " -> " + str(cara_6)
+
 print("----Resultado----")
 print(rta)
